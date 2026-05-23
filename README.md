@@ -1,4 +1,4 @@
-# Hotel-Booking hotel-analysis
+#  Hotel-booking analysis
 This project analyzes hotel booking data to understand booking patterns, cancellation trends, and pricing behavior using Python.
 
 ## Tools & Libraries Used
@@ -32,7 +32,8 @@ This project analyzes hotel booking data to understand booking patterns, cancell
 - Cancellation analysis charts
 - Booking trends
 
-Result: Cancelled bookings generally show higher ADR values compared to non-cancelled bookings, indicating that higher-priced bookings may have a greater chance of cancellation.
+## Result: 
+Cancelled bookings generally show higher ADR values compared to non-cancelled bookings, indicating that higher-priced bookings may have a greater chance of cancellation.
 
 ## Author
 Revati Thakur
